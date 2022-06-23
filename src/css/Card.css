@@ -1,0 +1,20 @@
+.Cardbr{
+    /* border-radius: 10%; */
+    border-style: solid;
+    border-color: white;
+    background-color: linear-gradient(to top,#221F1F,grey);
+    width: 100%;
+    height: auto;
+    padding: 8%;
+
+    
+    
+}
+
+.lic {
+    object-fit: contain;
+    border-radius: 5%;
+    height: 16.7rem;
+    overflow: hidden;
+    background-color: white;
+  } 
